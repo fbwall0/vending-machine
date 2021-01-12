@@ -1,0 +1,14 @@
+Vending Machine Started: 11/21/2020 11:32:33 AM
+Vending Machine stopped at: 11/21/2020 11:32:43 AM
+
+Vending Machine Started: 11/21/2020 11:33:45 AM
+11/21/2020 11:33:52 AM Sales Report Generated
+Vending Machine stopped at: 11/21/2020 11:33:53 AM
+
+Vending Machine Started: 11/21/2020 11:53:49 AM
+11/21/2020 11:54:00 AM FEED MONEY: $10.00 $10.00
+11/21/2020 11:54:05 AM Heavy C4 $10.00 $8.50
+11/21/2020 11:54:16 AM Wonka Bar B3 $8.50 $7.00
+11/21/2020 11:55:01 AM GIVE CHANGE: $7.00 $0.00
+Vending Machine stopped at: 11/21/2020 11:55:26 AM
+
